@@ -7,6 +7,16 @@
   height:120px;
 }
 
+#nav{
+  max-width: 250px;
+  padding-left: 500px;
+
+}
+
+#table{
+
+  ali
+}
 
 }
 
@@ -42,11 +52,27 @@ p{
 }
 
 div{
+
   border:2px solid black;
   size: relative;
-
   background-color: #ffffff;
     color: #000000;
+}
+table{
+  margin: 0px auto; padding-top:2px; padding-bottom:2px; style: margin:1em auto;
+
+}
+
+td {
+    background-color: #4169e1;
+    color: white;
+
+.nav{
+  border: 2px;
+  max-width: 250px;
+  text-align: r;
+  padding-left: 500px;
+  padding-top: 50px;
 }
 
 .jumbotron{
