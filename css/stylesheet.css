@@ -58,6 +58,7 @@ div{
   size: relative;
   background-color: #ff9414;
     color: #000000;
+    max-width: 50%;
 }
 table{
   margin-left: 530px;
@@ -87,15 +88,6 @@ th, td {
 
 .menu-section {
   margin-bottom: 80px;
-}
-
-.menu-section-title {
-  font-family: georgia;
-  font-size: 50px;
-  display: block;
-  font-weight:normal;
-  margin: 20px 0;
-  text-align: Center;
 }
 
 .menu-item {
